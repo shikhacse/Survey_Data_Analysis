@@ -111,7 +111,7 @@ Based on the sample dashboard and analysis:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/survey_dashboard.png)
+![Dashboard Screenshot](assets/images/dashboard.PNG)
 
 ---
 
